@@ -2,9 +2,8 @@
 `Software Engineer (student)`
 
 📚 **Software Engineering** student at the University of Buenos Aires (Argentina)  
-💻 **Self-taught programmer** with strong organizational skills  
-🔍 Passionate about exploring new technologies and automating daily tasks through code  
-🏠 **Domotics enthusiast** | Interested in smart home development and cybersecurity  
+💻 **Self-taught programmer**:)  
+🏠 Interested in Domotics, System Administration and Cybersecurity  
 🚀 Constantly learning and expanding my skill set  
 
 ---
