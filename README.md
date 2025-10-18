@@ -1,4 +1,4 @@
-## Hi there (hola) 👋 I'm Ian
+## Nihao👋 I'm Ian
 `Software Engineer (student)`
 
 📚 **Software Engineering** student at the University of Buenos Aires (Argentina)  
