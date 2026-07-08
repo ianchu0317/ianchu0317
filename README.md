@@ -1,11 +1,13 @@
-## Nihao👋 I'm Ian
-`Software Engineer (student)`
+## Nihao 👋 I'm Ian Chen
+`SysAdmin & Software Engineering Student`
 
-📚 **Software Engineering** student at the University of Buenos Aires (Argentina)  
-💻 **Self-taught programmer**:)  
-🏠 Interested in Domotics, System Administration and Cybersecurity  
-🚀 Constantly learning and expanding my skill set  
+📚 **Software Engineering** student at the University of Buenos Aires (UBA - Argentina)  
+💻 **Self-taught programmer** :)  
+🖥️ Spending my free time building my **Homelab** and diving into System Administration (Linux, Proxmox, Docker)  
+🏠 Also interested in Domotics and Cybersecurity 
+🚀 Constantly learning and breaking things to see how they work  
 
+🔗 **Check out my projects and notes:** [www.ianchenn.com](https://www.ianchenn.com)
 
 <!-- ### My roadmap -->
 
